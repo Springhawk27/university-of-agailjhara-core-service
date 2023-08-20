@@ -1,0 +1,25 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "/Users/sazzadmahmud/Documents/0 Next Level Web Development/Mission 6 - Be a SQL Superstar/UOA-core-service/UOA-core-service/logs/winston/successes/.be07af935f94221bb40ab70f86daaa47087fae2f-audit.json",
+    "files": [
+        {
+            "date": 1692451130453,
+            "name": "/Users/sazzadmahmud/Documents/0 Next Level Web Development/Mission 6 - Be a SQL Superstar/UOA-core-service/UOA-core-service/logs/winston/successes/phu-2023-19-08-19-success.log",
+            "hash": "e616659a3fe8d63006ab08bc996890b832d44743772e67ce8f342ad31f0371c0"
+        },
+        {
+            "date": 1692457484894,
+            "name": "/Users/sazzadmahmud/Documents/0 Next Level Web Development/Mission 6 - Be a SQL Superstar/UOA-core-service/UOA-core-service/logs/winston/successes/phu-2023-19-08-21-success.log",
+            "hash": "fe7d105558cbe9071426a334689098c621729c2702ef8478d0bcf5c11411599e"
+        },
+        {
+            "date": 1692534163776,
+            "name": "/Users/sazzadmahmud/Documents/0 Next Level Web Development/Mission 6 - Be a SQL Superstar/UOA-core-service/UOA-core-service/logs/winston/successes/phu-2023-20-08-18-success.log",
+            "hash": "027883e72bd56db69d97b62d1ea34382dfc5c7d08ba3b79d27b515ae69386000"
+        }
+    ],
+    "hashType": "sha256"
+}
