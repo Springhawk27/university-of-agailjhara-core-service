@@ -1,0 +1,20 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "/Users/sazzadmahmud/Documents/0 Next Level Web Development/Mission 6 - Be a SQL Superstar/UOA-core-service/UOA-core-service/logs/winston/errors/.5d7239cdb44eddd2065c0f2753bd4935b43fee7c-audit.json",
+    "files": [
+        {
+            "date": 1693162507264,
+            "name": "/Users/sazzadmahmud/Documents/0 Next Level Web Development/Mission 6 - Be a SQL Superstar/UOA-core-service/UOA-core-service/logs/winston/errors/uoa-2023-28-08-00-error.log",
+            "hash": "8e2ca81444fa3e99b6a8123ed63d8598564ff5c03169562cf7095d5048d89ce0"
+        },
+        {
+            "date": 1693488231599,
+            "name": "/Users/sazzadmahmud/Documents/0 Next Level Web Development/Mission 6 - Be a SQL Superstar/UOA-core-service/UOA-core-service/logs/winston/errors/uoa-2023-31-08-19-error.log",
+            "hash": "84852dbb0f8f81fcd14c1ab8516c72929e55b92d9ad4b5ada1b17366d4406baa"
+        }
+    ],
+    "hashType": "sha256"
+}
