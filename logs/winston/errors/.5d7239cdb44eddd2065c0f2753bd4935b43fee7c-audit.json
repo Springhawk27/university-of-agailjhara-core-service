@@ -24,6 +24,11 @@
             "date": 1693584695874,
             "name": "/Users/sazzadmahmud/Documents/0 Next Level Web Development/Mission 6 - Be a SQL Superstar/UOA-core-service/UOA-core-service/logs/winston/errors/uoa-2023-01-09-22-error.log",
             "hash": "e76427e9f63eb7a2b26c5c902d216ad7ab7ed8bae16ded5a678feb54c839aca9"
+        },
+        {
+            "date": 1693592520821,
+            "name": "/Users/sazzadmahmud/Documents/0 Next Level Web Development/Mission 6 - Be a SQL Superstar/UOA-core-service/UOA-core-service/logs/winston/errors/uoa-2023-02-09-00-error.log",
+            "hash": "29175321c113996779b63cc591c087064ef849080b32883250e34feb78e83af2"
         }
     ],
     "hashType": "sha256"
